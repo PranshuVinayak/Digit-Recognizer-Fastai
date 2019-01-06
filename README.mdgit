@@ -1,1 +1,0 @@
-"# Digit-Recognizer-Fastai"  initgit add README.mdgit commit -m "first commit"git remote add origin git@github.com:PranshuVinayak/Digit-Recognizer-Fastai.gitgit push -u origin master
