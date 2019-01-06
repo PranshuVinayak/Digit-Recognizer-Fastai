@@ -1,1 +1,1 @@
-"# Digit-Recognizer-Fastai" 
+Digit Recognizer
