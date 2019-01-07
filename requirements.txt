@@ -1,3 +1,6 @@
+opencv-python
+fastai==0.7.0
 flask
 numpy
 torch==0.3.1
+torchtext==0.2.3
